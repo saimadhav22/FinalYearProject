@@ -1,4 +1,4 @@
-#Step-by-Step Instructions to Set Up AI Chat App
+#Step-by-Step Instructions to Set Up FinalYearProject
 
 1. Set Up a Virtual Environment
    - Open Command Prompt (`Win + R`, type `cmd`).
